@@ -59,9 +59,9 @@ Compare the original, eroded, and dilated images.
 
 ## Developed By
 
-**Name:** ASWINI D
+**Name:** ____________________________
 
-**Register No:** 212225240015
+**Register No:** ______________________
 
 ## Output
 
